@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
     left: '38%',
     transform: [{ translateX: -50 }, { translateY: -50 }],
     textAlign: 'center',
-    fontSize: 26, 
+    fontSize: 20, 
   },
   imageContainer: {
     position: 'relative',
